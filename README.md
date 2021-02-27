@@ -11,7 +11,7 @@ représente une table d'étudiants. Chaque ligne est un étudiant décrit par so
 - write:
 représente l'association entre les auteurs et les livres. Une ligne de cette table signifie que l'auteur a écrit le livre bid.
 - borrow:
-représente les informations de prêt de livre. Une ligne de cette table signifie que l'étudiant a emprunté le livre bid, à la date checkout-time et l'a retourné à la date return-time 
+représente les informations de prêt de livre. Une ligne de cette table signifie que l'étudiant a emprunté le livre bid, à la date checkout-time et l'a retourné à la date return-time. 
 
 ## Base de données:
 
