@@ -4,8 +4,7 @@
 * Author
 
 
-
-    aid      |    name 
+aid      | name 
 ------------ | -------------
 07890        | Jean Paul Sartre
 05678        | Pierre de Ronsard
