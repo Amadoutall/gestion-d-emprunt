@@ -1,4 +1,4 @@
-# gestion d'emprunt
+# Système de gestion d’emprunt dans une librairie
 
 
 
