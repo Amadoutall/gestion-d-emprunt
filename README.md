@@ -4,7 +4,7 @@
 I think you should use an
 `<addr>` element here instead.
 
-- book:
+<u> ** book: ** </u>
 représente une table d'auteurs. Chaque ligne contient le nom et l'identifiant d'un auteur book représente une table de livres. Chaque ligne est un livre décrit par son identifiant, son titre et sa catégorie (roman, science-fiction, musique, etc.).
 - student:
 représente une table d'étudiants. Chaque ligne est un étudiant décrit par son identifiant, son nom et son département (informatique, mécanique...).
