@@ -4,18 +4,18 @@
 I think you should use an
 `<addr>` element here instead.
 
-<u> **book:** </u>
+**book:**
 représente une table d'auteurs. Chaque ligne contient le nom et l'identifiant d'un auteur book représente une table de livres. Chaque ligne est un livre décrit par son identifiant, son titre et sa catégorie (roman, science-fiction, musique, etc.).
-- student:
+**student:**
 représente une table d'étudiants. Chaque ligne est un étudiant décrit par son identifiant, son nom et son département (informatique, mécanique...).
-- write:
+**write:**
 représente l'association entre les auteurs et les livres. Une ligne de cette table signifie que l'auteur a écrit le livre bid.
-- borrow:
+**borrow:**
 représente les informations de prêt de livre. Une ligne de cette table signifie que l'étudiant a emprunté le livre bid, à la date checkout-time et l'a retourné à la date return-time. 
 
 ## Base de données:
 
-* Author
+**Author**
 
 
 aid      | name 
@@ -23,7 +23,7 @@ aid      | name
 07890        | Jean Paul Sartre
 05678        | Pierre de Ronsard
 
-* book 
+**book** 
 
 
 bid | title | category 
@@ -33,7 +33,7 @@ bid | title | category
 0003 | Mignonne allons voir si la rose | Poème
 0004 | Les Amours | Poème
 
-* Student 
+**Student** 
 
 sid | sname | dept 
 ------------ | ------------- | ------------- 
@@ -41,7 +41,7 @@ S15 | toto | Math
 S16 | popo | Eco
 S17 | fofo | Mécanique
 
-* write
+**write**
 
 
 aid      | bid 
@@ -51,7 +51,7 @@ aid      | bid
 05678        | 0003
 05678        | 0003
 
-* borrow 
+**borrow**
 
 sid | bid | checkout-time | return-time 
 ------------ | ------------- | ------------- | -------------
