@@ -64,7 +64,12 @@ S16 | 0002 | 24-01-2020 | 24-01-2020
 S17 | 0001 | 12-04-2020 | 01-07-2020
 
 ------------------------------
+**Auteurs :**  
+
 <p align='center'>
-  <a href='https://www.linkedin.com/in/regis-aymar-bambou-0733b11a4'> <img src="images/174857.png" width="20" height="20"> </img>  </a> 
- 
+- Amadou Tall  <a href='https://www.linkedin.com/in/regis-aymar-bambou-0733b11a4'> <img src="images/174857.png" width="20" height="20"> </img>  </a> 
+- Cheikh Diop  <a href='https://www.linkedin.com/in/regis-aymar-bambou-0733b11a4'> <img src="images/174857.png" width="20" height="20"> </img>  </a> 
+- Régis Aymar Bambou <a href='https://www.linkedin.com/in/regis-aymar-bambou-0733b11a4'> <img src="images/174857.png" width="20" height="20"> </img>  </a> 
+
+  
 </p>
