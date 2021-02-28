@@ -3,7 +3,7 @@
 ### @author: Amadou tall, Cheikh Diop, Régis Aymar Bambou
 
 ## Objectif:  
-L'objectif de notre travail consiste à intérroger les quatres tables(gestion d’emprunt dans une librairie) ci-dessous en utilisant DSL et SQL sur spark.
+L'objectif de notre travail consiste à intérroger les cinq tables(gestion d’emprunt dans une librairie) ci-dessous en utilisant DSL et SQL sur spark.
 
 ## description des tables: 
 
