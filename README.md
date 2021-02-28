@@ -65,6 +65,6 @@ S17 | 0001 | 12-04-2020 | 01-07-2020
 
 ------------------------------
 <p align='center'>
-  <a href='https://www.linkedin.com/in/regis-aymar-bambou-0733b11a4/'> <img src="images/174857.png">  images </img>  </a> 
+  <a href='https://www.linkedin.com/in/regis-aymar-bambou-0733b11a4/'> <img src="images/174857.png" width="200" height="200"> </img>  </a> 
  
 </p>
