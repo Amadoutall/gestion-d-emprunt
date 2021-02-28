@@ -2,10 +2,17 @@
 
 ### @author: Amadou tall, Cheikh Diop, Régis Aymar Bambou
 
-## description des tables:  
-**book:**  
-représente une table d'auteurs. Chaque ligne contient le nom et l'identifiant d'un auteur book représente une table de livres. Chaque ligne est un livre décrit par son identifiant, son titre et sa catégorie (roman, science-fiction, musique, etc.).  
+## Objectif:  
+L'objectif de notre travail consite à intéroger les quatres tables(gestion d’emprunt dans une librairie) ci-dessous en utilisant DSL et SQL sur spark.
+
+## description des tables: 
+
+**Author:**  
+représente une table d'auteurs. Chaque ligne contient le nom et l'identifiant d'un auteur.  
   
+**book:**  
+représente une table de livres. Chaque ligne est un livre décrit par son identifiant, son titre et sa catégorie (roman, science-fiction, musique, etc.).   
+   
 **student:**  
 représente une table d'étudiants. Chaque ligne est un étudiant décrit par son identifiant, son nom et son département (informatique, mécanique...). 
   
