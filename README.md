@@ -3,7 +3,7 @@
 ### @author: Amadou tall, Cheikh Diop, Régis Aymar Bambou
 
 ## Objectif:  
-L'objectif de notre travail consite à intéroger les quatres tables(gestion d’emprunt dans une librairie) ci-dessous en utilisant DSL et SQL sur spark.
+L'objectif de notre travail consiste à intérroger les quatres tables(gestion d’emprunt dans une librairie) ci-dessous en utilisant DSL et SQL sur spark.
 
 ## description des tables: 
 
@@ -70,6 +70,13 @@ S15 | 0001 | 13-06-2020 | 13-10-2020
 S16 | 0002 | 24-01-2020 | 24-01-2020
 S17 | 0001 | 12-04-2020 | 01-07-2020
 
+
+## EXÉCUTION DU CODE :
+- open terminal
+- git clone https://github.com/Amadoutall/K-means-Clustering.git
+- open jupyter
+- exécute src/script.ipynb  
+  
 ------------------------------
 **Auteurs :**  
 
