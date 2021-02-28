@@ -73,7 +73,7 @@ S17 | 0001 | 12-04-2020 | 01-07-2020
 
 ## EXÉCUTION DU CODE :
 - open terminal
-- git clone https://github.com/Amadoutall/K-means-Clustering.git
+- git clone https://github.com/Amadoutall/gestion-d-emprunt.git
 - open jupyter
 - exécute src/script.ipynb  
   
