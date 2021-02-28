@@ -1,6 +1,6 @@
 # Système de gestion d’emprunt dans une librairie
 
-### Système de gestion d’emprunt dans une librairie
+### @author: Amadou tall, Cheikh Diop, Régis Aymar Bambou
 
 ## description des tables:  
 **book:**  
